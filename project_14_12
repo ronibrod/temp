@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="project_14_12.css">
+        <title>my project_14_12</title>
+    </head>
+    <body>
+        <div class="central_div">
+            <div class="top">
+                <a href="https://13tv.co.il" class="top_links" id="reshet_13">רשת 13</a>
+                <a href="https://www.mako.co.il/tv" class="top_links" id="keshet_12">קשת 12</a>
+                <a href="https://www.kan.org.il/live/tv.aspx?stationid=2" class="top_links" id="can_11">כאן 11</a>
+                <input class="search_area">
+                    <a href="#" id="search_emoji">&#128269;</a>
+                </input>
+            </div>
+            <div class="body_main">
+                
+                <div class="body_right"><a href="https://www.yad2.co.il">
+                    <div id="advertising1"></div>
+                    <div id="advertising2"></div> 
+                    <div id="advertising3"></div>
+                </a></div>
+
+                <div class="body_center">
+                    <div class="body_center_top_div"><input class="body_center_top_input"></input></div>
+                    <div class="body_center_center">
+
+                        <div class="body_center_center_blocks"><a href="https://classroom.google.com/u/0/h" target="_blank">
+                            <div class="circle">
+                                <span class="user_picture">&#128039;</span>
+                            </div>
+                            <span class="user_name">pini</span>
+                        </a></div>
+
+                        <div class="body_center_center_blocks"><a href="#">
+                            <div class="circle">
+                                <span class="user_picture">&#127877;</span>
+                            </div>
+                            <span class="user_name">samy</span>
+                        </a></div>
+
+                        <div class="body_center_center_blocks"><a href="#">
+                            <div class="circle">
+                                <span class="user_picture">&#128105;</span>
+                            </div>
+                            <span class="user_name">tili</span>
+                        </a></div>
+
+                        <div class="body_center_center_blocks"><a href="https://lh3.googleusercontent.com/NKB-I0Y5fXutj0dibQkcYq_ixXfvgt3fbXaP8XfsRGP0rwE3irIk0_GA41613p0SrLZAAZKzdeYBV2w=w1920-h932">
+                            <div class="circle">
+                                <span class="user_picture">&#129409;</span>
+                            </div>
+                            <span class="user_name">roni</span>
+                        </a></div>
+
+                    </div>
+
+                    <div class="body_center_bottom">
+                        <h6 class="texts" id="text1">
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br><br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext
+                        </h6>
+                        <h6 class="texts">
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br><br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext
+                        </h6>
+                        <h6 class="texts">
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br><br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext
+                        </h6>
+                        <h6 class="texts">
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br><br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext<br>
+                            texttexttexttext
+                        </h6>
+                    </div>
+                </div>
+
+                <div class="body_left">
+                    <div class="body_left_list">
+                        <a href="https://www.netflix.com/il">
+                            <img src="https://images.globes.co.il/images/NewGlobes/big_image_800/2019/3BF795030314EDED9A3575C2F9BCD985_800x392.20190721T174952.jpg" class="web_list" alt="Netflix">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.youtube.com">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjp7a0XwpUALrwoWRGx76NsYNEGdhSXvJpOw&usqp=CAU" class="web_list" alt="YouTube">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.facebook.com">
+                            <img src="https://tickernews.co/wp-content/uploads/2021/08/facebook-enhances-ai-used-to-describe-ph-6008bf37fb74df5fefe88c3c-1-jan-22-2021-24-16-08-poster.jpeg" class="web_list" alt="Facebook">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.instagram.com">
+                            <img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/06/Instagram_Logo-1920_jifdwy.jpg?quality=82&strip=all" class="web_list" alt="Instagram">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://web.whatsapp.com">
+                            <img src="https://static.whatsapp.net/rsrc.php/v3/yO/r/FsWUqRoOsPu.png" class="web_list" alt="WhatsApp">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://twitter.com">
+                            <img src="https://lh3.googleusercontent.com/proxy/vzRZyWNXkJaycJf36Dso3O89g0Tgk2LP7MkSpBF-TvyQa104bnvVsEl03zVeg2SqLll0FvTcyLjqWBCHZM71P1eE9eqG45JmOIsUDD1389o" class="web_list" alt="Twitter">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.google.co.il">
+                            <img src="https://stepcdn.com/assets/2018-12/13/12/39ys4/google-76522_960_720-700x.png" class="web_list" alt="Google">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99">
+                            <img src="https://images.hindustantimes.com/tech/img/2020/09/24/960x540/Untitled_design_(12)_1600925482551_1600925492949.png" class="web_list" alt="Wikipedia">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.amazon.com">
+                            <img src="https://volsiz.ru/wp-content/uploads/2021/12/amazon.jpg" class="web_list" alt="Amazon">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://he.aliexpress.com">
+                            <img src="https://namerre.hu/wp-content/uploads/aliexpress-magyarul-rendeles-es-fizetes.jpg" class="web_list" alt="AliExpress">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://img.mako.co.il/2014/08/14/fdsafasfd_i.jpg">
+                            <img src="https://ecoloc.ro/1-share/Autocolante-auto-de-la-produc%C4%83tor-automobile-produse_35032-pic.jpg" class="web_list" alt="PornoHab">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.ynet.co.il/home/0,7340,L-8,00.html">
+                            <img src="https://%D7%A9%D7%99%D7%A8%D7%95%D7%AA-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA.org.il/wp-content/uploads/2019/10/ynet-%D7%95%D7%95%D7%99%D7%99%D7%A0%D7%98-%D7%9C%D7%95%D7%92%D7%95.jpg" class="web_list" alt="Ynet">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.walla.co.il">
+                            <img src="https://images.globes.co.il/images/NewGlobes/big_image_800/2016/logo_wall800.jpg" class="web_list" alt="Walla">
+                        </a>
+                    </div>
+                    <div class="body_left_list">
+                        <a href="https://www.sport5.co.il/">
+                            <img src="http://videopage.sport5.co.il/images/logo_sport_chanel.jpg" class="web_list" alt="Sport5">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
